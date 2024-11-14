@@ -1,1 +1,1 @@
-package pracatice;
+package prac2;
